@@ -1,0 +1,5 @@
+//onClick() function is a listener which waits for an event to occur
+an example is user clicking the mouse or pressing a key
+that's why it's called event listeners 
+
+//document.querySelectorAll('className') die html file r exact class name r div gulo k access kora jay

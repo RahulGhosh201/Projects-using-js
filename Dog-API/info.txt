@@ -1,0 +1,3 @@
+API s stands for Application Programming Interface and it 
+lets your app communicate with other services to fetch data 
+from databases that are globally updated around the internet
